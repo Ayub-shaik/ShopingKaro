@@ -27,6 +27,7 @@
     "express-handlebars": "^7.1.2",
     "mongodb": "^6.3.0",
     "mongoose": "^8.1.0",
-    "pug": "^3.0.2"
+    "pug": "^3.0.2",
+    "react-router": "^7.0.2"
   }
 }
